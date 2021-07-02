@@ -1,7 +1,7 @@
 <annotation>
-	<folder>parent-mice</folder>
-	<filename>PrL-16-c543c537-33e2-4800-8902-cc9a67e4de89.jpg</filename>
-	<path>/Users/user/Applications/machine-learning/deeproute/data/train/parent-mice/PrL-16-c543c537-33e2-4800-8902-cc9a67e4de89.jpg</path>
+	<folder>train</folder>
+	<filename>parent_PrL-16-c543c537-33e2-4800-8902-cc9a67e4de89.jpg</filename>
+	<path>/Users/user/Applications/machine-learning/deeproute/data/train/parent_PrL-16-c543c537-33e2-4800-8902-cc9a67e4de89.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>246</xmin>
-			<ymin>97</ymin>
-			<xmax>456</xmax>
-			<ymax>225</ymax>
+			<xmin>261</xmin>
+			<ymin>96</ymin>
+			<xmax>473</xmax>
+			<ymax>220</ymax>
 		</bndbox>
 	</object>
 </annotation>

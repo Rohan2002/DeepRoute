@@ -1,7 +1,7 @@
 <annotation>
-	<folder>parent-mice</folder>
-	<filename>PrL-16-147edb43-1d51-4248-8404-dade5151280d.jpg</filename>
-	<path>/Users/user/Applications/machine-learning/deeproute/data/test/parent-mice/PrL-16-147edb43-1d51-4248-8404-dade5151280d.jpg</path>
+	<folder>test</folder>
+	<filename>parent_PrL-16-147edb43-1d51-4248-8404-dade5151280d.jpg</filename>
+	<path>/Users/user/Applications/machine-learning/deeproute/data/test/parent_PrL-16-147edb43-1d51-4248-8404-dade5151280d.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
