@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>child_PrL-4-309251e8-a3da-4446-a5ba-3695b92a2c25.jpg</filename>
+	<path>/Users/user/Applications/machine-learning/deeproute/data/train/child_PrL-4-309251e8-a3da-4446-a5ba-3695b92a2c25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>child-mice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>173</ymin>
+			<xmax>327</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
