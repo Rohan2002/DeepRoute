@@ -1,6 +1,9 @@
 import datetime
 import os
 import glob
+import matplotlib.pyplot as plt
+import numpy as np
+import cv2
 
 def remove_all_files(folder_path: str):
     files = glob.glob(f'{folder_path}/*')
@@ -40,3 +43,10 @@ def time_to_frame(time, rate=30):
     time_in_seconds = time_to_sec(time)
     return time_in_seconds * rate
 
+def plot_image(img):
+    img_arr = img
+    if type(img) == str and os.path.exists(img):
+        img_arr = cv2.imread(img)
+    plt.figure(figsize=(20, 20))
+    plt.imshow(img_arr)
+    plt.show()
